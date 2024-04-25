@@ -7,4 +7,8 @@ export default defineConfig({
   define: {
     "process.env": {},
   },
+  build: {
+    target: 'esnext'
+  },
+  base: "/Weather_App/",
 });
