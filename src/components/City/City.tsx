@@ -29,7 +29,7 @@ export const City: React.FC<Props> = ({ city, edit, onCityRemove }) => {
       <div className="weather">
         <span>{Math.round(city.currentWeather.main.temp)}&deg;</span>
         <img
-          src={`../../assets/conditions/${city.currentWeather.weather[0].icon}.svg`}
+          src={`./public/conditions/${city.currentWeather.weather[0].icon}.svg`}
           alt=""
         />
       </div>
@@ -38,7 +38,7 @@ export const City: React.FC<Props> = ({ city, edit, onCityRemove }) => {
           autoPlay
           loop
           muted
-          src={`../../assets/videos/${city.currentWeather.weather[0].icon}.mp4`}
+          src={`./public/videos/${city.currentWeather.weather[0].icon}.mp4`}
         ></video>
         <div className="bg-overlay"></div>
       </div>
