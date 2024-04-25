@@ -43,10 +43,13 @@ The following technologies are used in this project:
 
 ## Preview
 **Main page**
+![image](https://github.com/dyarechuk/Weather_App/assets/65679054/b3f314ea-bbae-40dc-b113-cf878df14bd4)
 
 **Weather details page**
+![image](https://github.com/dyarechuk/Weather_App/assets/65679054/9de4e9ba-7440-40b4-a659-4a55ff4bdcc4)
 
 **Login page**
+![image](https://github.com/dyarechuk/Weather_App/assets/65679054/c7547cfe-2748-403f-9fa9-228ae85e226d)
 
 ## Author
 
